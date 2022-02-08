@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tier 1 Cert Page</title>
+</head>
+
+<body>
+    <div class="uno dos" align="left">
+        <span id="unique_span" for="undefined_checkbox" tabindex="0" class="generic_span">
+            <a href="https://help.heap.io/">Click here to visit the Heap Help Center</a>
+        </span>
+    </div>
+</body>
+</html>
