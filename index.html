@@ -51,8 +51,8 @@
       secureCookie: true,
 	    
     	rewrite: function(props) {
-    	  if (props.event_properties.title) {
-  	    props.event_properties.title = "Adam is the best!";
+    	  if (props.pageview_properties.title) {
+  	    props.pageview_properties.title = "Adam is the best!";
 	  }
 		
     	  return props;
